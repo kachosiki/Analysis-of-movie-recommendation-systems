@@ -1,4 +1,4 @@
-# Analysis-of-Different-Movie-recommendation-systems
+# Analysis-of-Movie-recommendation-systems
 This Project deals with Analysis of three types of Recommendation Systems namely, Demographic Filtering, Content Based Filtering and Collaborative Filtering. This uses the Movies Dataset (Metadata on over 45,000 movies. 26 million ratings from over 270,000 users).
 
 # Analysis of Movie recommendation systems on The Movie Dataset. 
